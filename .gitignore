@@ -1,0 +1,14 @@
+# Python temporanei
+__pycache__/
+*.py[cod]
+*$py.class
+
+# RStudio temporanei
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
